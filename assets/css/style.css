@@ -1,6 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Courgette&family=Dancing+Script:wght@700&family=Great+Vibes&family=Lato:wght@300;400;900&family=Raleway:wght@100&display=swap");
+
+.container {
+  width: 70% !important;
+}
+
 #header {
   background-image: url(../images/hero.jpg);
-  background-position: center;
+  background-position: right 10% center;
   background-size: cover;
   height: 100vh;
+}
+.navbar-brand {
+  font-family: "Dancing Script", cursive;
+  font-size: 2rem !important;
+}
+.hero-content h1 {
+  font-family: "Dancing Script", cursive;
 }

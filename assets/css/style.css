@@ -15,7 +15,8 @@
   font-family: "Dancing Script", cursive;
   font-size: 2rem !important;
 }
-.hero-content h1 {
+.hero-content h1,
+.menu h2 {
   font-family: "Dancing Script", cursive;
 }
 /* Hero End */
@@ -37,4 +38,14 @@
 }
 .media-body span {
   font-size: 1rem;
+}
+/* Our Menu Section */
+.card-radius {
+  border-radius: 4%;
+  border: none;
+}
+.card-img-radius {
+  border-bottom-left-radius: 15% !important;
+  border-top-left-radius: 4%;
+  border-top-right-radius: 4%;
 }

@@ -16,7 +16,9 @@
   font-size: 2rem !important;
 }
 .hero-content h1,
-.menu h2,#feane h2 {
+.menu h2,
+#feane h2,
+#location h2 {
   font-family: "Dancing Script", cursive;
 }
 /* Hero End */
@@ -48,4 +50,12 @@
   border-bottom-left-radius: 15% !important;
   border-top-left-radius: 4%;
   border-top-right-radius: 4%;
+}
+/* Location Section */
+#location .form-control::placeholder,
+#location .form-select,
+#location .form-control {
+  color: #595353;
+  font-size: 1rem;
+  padding: 1rem;
 }

@@ -18,7 +18,8 @@
 .hero-content h1,
 .menu h2,
 #feane h2,
-#location h2 {
+#location h2,
+#textimonial h2 {
   font-family: "Dancing Script", cursive;
 }
 /* Hero End */
@@ -58,4 +59,13 @@
   color: #595353;
   font-size: 1rem;
   padding: 1rem;
+}
+/* Textimonial Section */
+.textimonial-icon-top-img {
+  font-size: 1.75rem !important;
+  bottom: 82px;
+  left: 53px;
+}
+.textimonial-arrow-icon i {
+  padding: 0.55rem 0.75rem !important;
 }

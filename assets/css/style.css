@@ -19,7 +19,8 @@
 .menu h2,
 #feane h2,
 #location h2,
-#textimonial h2 {
+#textimonial h2,
+#footer-section h4 {
   font-family: "Dancing Script", cursive;
 }
 /* Hero End */
